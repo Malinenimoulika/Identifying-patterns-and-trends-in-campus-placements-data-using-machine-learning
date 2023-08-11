@@ -1,1 +1,1 @@
-These are the html files used in this project
+These are the html and python files used in this project
